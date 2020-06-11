@@ -5,12 +5,12 @@
 Summary:	Userspace library for ALSA compressed APIs
 Summary(pl.UTF-8):	Biblioteka przestrzeni użytkownika dla API systemu ALSA dla danych skompresowanych
 Name:		tinycompress
-Version:	1.2.2
+Version:	1.2.3
 Release:	1
 License:	BSD
 Group:		Libraries
 Source0:	ftp://ftp.alsa-project.org/pub/tinycompress/%{name}-%{version}.tar.bz2
-# Source0-md5:	616804dae514b8c38c39ec14f98d7214
+# Source0-md5:	342d60f0081f64dbf9d9c4572f955b6f
 URL:		https://www.alsa-project.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
